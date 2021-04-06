@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @soledole
+- 👀 I’m interested in iOS Development
+- 🌱 I’m currently learning SwiftUI
+- 📫 How to reach me? Send messege to jedrzej.kus@icloud.com
